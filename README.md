@@ -17,3 +17,5 @@ Action already setup In this template, you just need click `use this template` b
 [More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![]http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bansonsy&theme=monokai
+
+[![](https://raw.githubusercontent.com/bansonsy/bansonsy/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
