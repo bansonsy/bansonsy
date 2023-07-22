@@ -1,3 +1,9 @@
+<!-- Visitor -->
+<a href="https://komarev.com/ghpvc/?username=bansonsy">
+  <img align="left" src="https://komarev.com/ghpvc/?username=bansonsy&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+<br>
+
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -29,7 +35,3 @@
 
 </div>
 
-<!-- Visitor -->
-<a href="https://komarev.com/ghpvc/?username=bansonsy">
-  <img align="left" src="https://komarev.com/ghpvc/?username=bansonsy&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
