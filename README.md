@@ -18,7 +18,7 @@
   <samp>
     <a href="https://www.linkedin.com/in/bansonsy/">「 LinkedIn 」</a>
     <br>
-    「 I am a aspiring Data Engineer from the <b>United States</b> 」
+    「 I am a aspiring Software Engineer from the <b>United States</b> 」
     <br>
     「 I love contributing to open-source and volunteering 」
     <br>
