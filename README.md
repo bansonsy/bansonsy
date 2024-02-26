@@ -1,14 +1,10 @@
-## About Me
-</p>
-Hello, I'm Banson. <br><br>
-Welcome to my Github Profile. I have a large interest in exploring infrastructure, cloud, and data engineering. 
-</p>
+<div align="center">
+ 😄 Hi there, I'm Banson, Welcome~~ 👋 <br/><br/>
+<img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api?username=bansonsy&show_icons=true&theme=algolia&hide=contribs,prs" alt="Banson's github stats" /> 
+<img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=bansonsy&layout=compact&theme=algolia" />
+<div style="clear: both"></div>
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=bansonsy&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansonsy&theme=radical&layout=compact" />
-</div>
-<div style="display: flex; flex-direction: row;">
- <img align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=bansonsy&show_icons=true&theme=radical" />
- <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansonsy&theme=radical&layout=compact" />
+<br/>
+Home:
+https://bansonsy.com
 </div>
