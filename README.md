@@ -1,7 +1,8 @@
 <div align="center">
- 👋 Hi there, I'm Banson. Welcome~~  <br/><br/>
+ 👋 Hi there, I'm Ben. Welcome~  <br/><br/>
  Building projects one <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/vector/adventure/hiking.svg" alt="Photo Icon" width="30" height="30" /> at a time. <br/><br/>
 
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=bansonsy&layout=compact&theme=dark" />
 <div style="clear: both"></div>
 </div>
+<!-- Go images & gifs credit: egonelbre -->
