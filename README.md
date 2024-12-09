@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Ben. Welcome~</h1>
+<h1 align="center">👋 Welcome~</h1>
 
 - 🔨 Building projects one <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/vector/adventure/hiking.svg" alt="Photo Icon" width="30" height="30" /> at a time. 
 - 💻 I work with Python, Go, & C#.
