@@ -1,5 +1,5 @@
 <div align="center">
     <br>
-    <img src="city.gif">
+    <img src="eyes.gif">
     <br>
 </div>
